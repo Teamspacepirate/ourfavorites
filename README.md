@@ -2,6 +2,5 @@
 
 Evan Ballinger  
 Egor Muscat  
-Zac Champion
-
+Zac Champion  
 Jimmy Morgan
